@@ -8,17 +8,17 @@ a wide range of legacy browsers that do not natively support ES6.
 
 ## Installation
 
-$ nvm use
-$ npm install
+    $ nvm use
+    $ npm install
 
-$ gulp build-js
+    $ gulp build-js
 
-$ gulp clean
+    $ gulp clean
 
 ## Pre-Requisites
 
-Nvm
-https://github.com/creationix/nvm
+    Nvm
+    https://github.com/creationix/nvm
 
-Node 10
-https://nodejs.org/
+    Node 10
+    https://nodejs.org/
